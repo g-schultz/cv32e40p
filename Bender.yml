@@ -24,11 +24,7 @@ sources:
   include_dirs:
     - rtl/include
     - bhv
-<<<<<<< HEAD
     - bhv/include
-=======
-    - bhf/include
->>>>>>> c5f797d311e4945221046c40eb1d63d2989bddc6
     - sva
   files:
     - rtl/include/cv32e40p_apu_core_pkg.sv
