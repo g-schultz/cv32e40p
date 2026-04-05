@@ -42,6 +42,7 @@ sources:
     - rtl/cv32e40p_ex_stage.sv
     - rtl/cv32e40p_ff_one.sv
     - rtl/cv32e40p_fifo.sv
+    - rtl/cv32e40p_fp_wrapper.sv
     - rtl/cv32e40p_hwloop_regs.sv
     - rtl/cv32e40p_id_stage.sv
     - rtl/cv32e40p_if_stage.sv
